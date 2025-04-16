@@ -1,7 +1,7 @@
 Titolo: Amazon Sales 2025 - Analisi
 Analisi dettagliata delle vendite Amazon attraverso un modello a stella su Power BI:
 
-1. Introduzione
+1. Introduzione:
 Questo progetto ha l’obiettivo di analizzare i dati di vendita di Amazon nel 2025 utilizzando Power BI.
 Attraverso un modello a stella, ho esplorato metriche chiave sugli ordini, sui clienti e sulle vendite totali, offrendo visualizzazioni interattive che facilitano la comprensione dei dati.
 
